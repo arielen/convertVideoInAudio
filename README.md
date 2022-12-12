@@ -7,6 +7,7 @@
 ### Cloning a repository
 
     git clone https://github.com/arielen/convertVideoInAudio
+    cd convertVideoInAudio
     pip install -r requirements.txt
 
 ### Using examples
